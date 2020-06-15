@@ -1,0 +1,8 @@
+p {
+
+    color: blue;
+    margin: 20px;
+    padding: 20px;
+    padding color:blue ;
+    back
+}
